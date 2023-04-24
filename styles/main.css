@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'Inter var';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: block;
+  src: url(/fonts/Inter-roman.latin.var.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Inter var';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: block;
+  src: url(/fonts/Inter-italic.latin.var.woff2) format('woff2');
+  font-named-instance: 'Italic';
+}
+
+body {
+  font-family: 'Inter var', system-ui, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  -webkit-font-smoothing: subpixel-antialiased;
+  font-feature-settings: 'case' 1, 'cpsp' 1, 'dlig' 1, 'cv01' 1, 'cv02',
+    'cv03' 1, 'cv04' 1;
+  font-variation-settings: 'wght' 450;
+  font-variant: common-ligatures contextual;
+  letter-spacing: -0.02em;
+}
+b,
+strong,
+h3,
+h4,
+h5,
+h6 {
+  font-variation-settings: 'wght' 650;
+}
+h1 {
+  font-variation-settings: 'wght' 850;
+  background: -webkit-linear-gradient(to right, #7A00FB, #A94FFB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2 {
+  font-variation-settings: 'wght' 750;
+}
+
+@media screen and (min-device-pixel-ratio: 1.5),
+  screen and (min-resolution: 1.5dppx) {
+  body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+details summary {
+  cursor: pointer;
+}
+
+img.next-image {
+  margin: 0;
+}
+
+.prose a {
+  color: #0074de;
+}
+
+.nav-line .nav-link {
+  color: #69778c;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+@media screen and (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+.top-link {
+  transition:       all .25s ease-in-out;
+  position:         fixed;
+  bottom:           0;
+  right:            0;
+  display:          inline-flex;
+  color:            #000000;
+
+  cursor:           pointer;
+  align-items:      center;
+  justify-content:  center;
+  margin:           0 2em 2em 0;
+  border-radius:    50%;
+  padding:          .25em;
+  width:            2em;
+  height:           2em;
+  background-color: #dadada;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
