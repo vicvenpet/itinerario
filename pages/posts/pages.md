@@ -33,5 +33,6 @@ Recomendaciones para pasar unas vacaciones de 2 días:
 - Comer en algún lugar fuera de casa es una buena idea para experimentar la zona, pero también es importante tener en cuenta el presupuesto y comer al menos un día en casa.
 - Al llegar al hotel en Salou, es posible que haya tiempo para relajarse y jugar juegos de mesa o usar el ordenador en la habitación.
 
+[Edita el post en GitHub](https://github.com/vicvenpet/itinerario/edit/master/pages/posts/pages.md)
 <a class="top-link hide" href="#copyright">©</a>
 <a name="copyright"></a>
