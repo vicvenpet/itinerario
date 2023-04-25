@@ -10,5 +10,4 @@
 
 ### Contact
 
-You can contact the developers of Slash, Inc. at our <b><a href="https://discord.com/invite/5AVuqph8d6">Discord</a></b>.
-
+You can contact the developers.
