@@ -33,6 +33,10 @@ Recomendaciones para pasar unas vacaciones de 2 días:
 - Comer en algún lugar fuera de casa es una buena idea para experimentar la zona, pero también es importante tener en cuenta el presupuesto y comer al menos un día en casa.
 - Al llegar al hotel en Salou, es posible que haya tiempo para relajarse y jugar juegos de mesa o usar el ordenador en la habitación.
 
+[SUGERENCIAS (de Dani)]: 
+- Bueno podríamos pasarnos por Ferrari Land, pues es un poco más de dinero pero podría ser una bonita experiencia y podríamos pasar más rato haciendo otras cosas y eso.
+- Hay una playa llamada "La playa de Levante" pues no está en Levante pero está fina de huevos, un km lleno de mar y de arena que podríamos usar para relajarnos o comprarnos alguna cosica pa jugar.
+
 [Edita el post en GitHub](https://github.com/vicvenpet/itinerario/edit/master/pages/posts/pages.md)
 <a class="top-link hide" href="#copyright">©</a>
 <a name="copyright"></a>
