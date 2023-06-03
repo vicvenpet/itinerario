@@ -30,7 +30,7 @@ En total todo esto por persona es sobre alrededor de **131,5€** y con una rese
 
 ## PLAN DEL VIAJE
 ---
-### 24 de Junio
+### 25 de Junio
 ---
 
 IMPORTANTE: el viaje dura mucho, así que hay que llevar bocatas, bebidas y cosas para no morise de aburrimiento (una Nintendo, cosillas así)
@@ -44,7 +44,7 @@ IMPORTANTE: el viaje dura mucho, así que hay que llevar bocatas, bebidas y cosa
 - Despues de ordenar todo, saldremos a dar una vuelta y eso, comer o jugar dentro del hotel, entre otras cosas que podemos hacer.
 - Luego a dormir todos y a mamar.
 
-### 25 de Junio
+### 26 de Junio
 ---
 
 - Nos despertaremos entre las 08:00am y las 09:00am.
@@ -52,7 +52,7 @@ IMPORTANTE: el viaje dura mucho, así que hay que llevar bocatas, bebidas y cosa
 - Portaventura abre a las **10:00**, con lo que pasaremos ahí gran parte del día, comeremos y merendaremos ahí (y tened cuidado con el dinero de la comida, por que es muy caro todo ahí)
 - Cuando hayamos acabado todo lo que teníamos que hacer iremos al hotel de vuelta y cocinaremos algo dentro del hotel (es una casa) ya que tampoco queremos quedarnos sin un duro en estos 2 días (o comeremos fuera, ya depende del dinero que tengamos todos)
 
-### 25 de Junio
+### 27 de Junio
 ---
 
 - El hotel nos desaloja a las **12:00am** con lo que tenemos que estar ahí preparados para que nos tiren de la casa.
@@ -80,6 +80,21 @@ No quiero que nos tiren de la casa, así que **SI O SI** estás reglas hay que c
 
 Bueno para la gente que no sabe quien es, es una chica que conoce Mario y Esteban y que vive casi en Tarragona, así que como quiere venir con nosotros irá a Portaventura con nosotros, no repercute en nada de la casa, por que no puede entrar ya que nos tiran del hotel por ser demasiadas personas, pero estará con nosotros para cenar alguna vez etc etc.
 
-[Edita el post en GitHub](https://github.com/vicvenpet/itinerario/edit/master/pages/posts/pages2.md)
+El hotel / alojamiento se llama **SALOU 4 YOU**, un apartamento bastante economico cerca de la playa y con una piscina debajo.
+Me sabe muy mal, pero diré donde dormirá la gente:
+- Tenemos en total, **una cama doble, dos camas individuales y un sofa cama**:
+
+- Mario y Esteban dormirán en la cama de matrimonio, ya que se conocen de hace tiempo.
+- Dani y Marcos dormirán en las dos camas individuales.
+- Victor dormirá en el sofa cama.
+- Sintiendolo mucho tenemos que hacer un hueco que sea comodo por alguna zona de la casa para que Tomás pueda dormir en algún sito, y si Tomás lees esto, quedate mi cama y ya, por que me sabría fatal que te pongas a dormir en el puto suelo la verdad, aunque eso tenemos que organizarlo con el tiempo, por que aún quedan 2-3 semanas.
+
+LINK DEL HOTEL: ---
+
+Eso sería todo, espero que nos la pasemos todos bien y Jordi la chupa 😈
+
+
+
+- [Edita el post en GitHub](https://github.com/vicvenpet/itinerario/edit/master/pages/posts/pages2.md)
 <a class="top-link hide" href="#copyright">©</a>
 <a name="copyright"></a>
