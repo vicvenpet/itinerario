@@ -89,7 +89,7 @@ Me sabe muy mal, pero diré donde dormirá la gente:
 - Victor dormirá en el sofa cama.
 - Sintiendolo mucho tenemos que hacer un hueco que sea comodo por alguna zona de la casa para que Tomás pueda dormir en algún sito, y si Tomás lees esto, quedate mi cama y ya, por que me sabría fatal que te pongas a dormir en el puto suelo la verdad, aunque eso tenemos que organizarlo con el tiempo, por que aún quedan 2-3 semanas.
 
-LINK DEL HOTEL: ---
+[Link del hotel](https://www.booking.com/hotel/es/salou-apartamentos-4-you.es.html?aid=311090&label=hotel-92495-es-5jjTdOUVlwpLEdo9oRARWQS161726684054%253Apl%253Ata%253Ap1%253Ap2%253Aac%253Aap%253Aneg%253Afi%253Atikwd-1796246675%253Alp9049247%253Ali%253Adec%253Adm%253Appccp%253DUmFuZG9tSVYkc2RlIyh9YcGt_tphEo8pawEozW2KQ80&sid=4df1fa1d11550154fc4481a9bfd96999&all_sr_blocks=642071211_353184835_6_0_0;checkin=2023-06-25;checkout=2023-06-27;dest_id=-400284;dest_type=city;group_adults=5;group_children=0;hapos=1;highlighted_blocks=642071211_353184835_6_0_0;hpos=1;matching_block_id=642071211_353184835_6_0_0;no_rooms=2;req_adults=5;req_children=0;room1=A%2CA;room2=A%2CA%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=642071211_353184835_6_0_0__20900;srepoch=1685783870;type=t)
 
 Eso sería todo, espero que nos la pasemos todos bien y Jordi la chupa 😈
 
