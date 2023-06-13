@@ -11,7 +11,7 @@ author: Victor (Vicvenpet) Petkov - Daniel (Ilymaiki)
 ## Resumen
 ---
 
-Al final la verdad es que todo se ha ido a la mierda y por presupuesto y entre que nadie sabe si podría ir o no hemos actualizado el plan para ir a Calpe. Esto no tiene nada que ver con el texto pero si este plan sale bien (el de ir a Calpe) podemos intentar ir ya a Salou, con una mejor planificación y sabiendo todos los que iremos, porque este plan ha salido como una mierda dentro de lo bien que ha salido, que ya es algo.
+Al final todo se ha ido a la mierda por presupuesto, y entre que nadie sabe si podría ir o no, hemos actualizado el plan para ir a Calpe. Si este plan sale bien (el de ir a Calpe), podremos intentar ir ya a Salou la próxima vez, con una mejor planificación y sabiendo todos los que iremos.
 
 ## Detalles
 ---
