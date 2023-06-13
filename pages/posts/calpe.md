@@ -45,7 +45,7 @@ Voy a enseñaros dos hoteles con precios similarmente parecidos, decidiremos ent
 - Una primera ventaja es que el viaje de ida nos llevarán algunos padres, ya sea el novio de mi madre (Dani) o la madre de Mario, ya que ellos tienen coche y nos pueden transportar con facilidad, eso si, a la vuelta tenemos que buscarnos la vida yendo en un autobus o donde dios quiera, como si hacemos autostop.
 
 
-Dicho esto, aqui termina el itinerario sobre el plan de Calpe, es simple y sencillo, pasarla bien con amigos y lo que surja, espero que todos lo pasemos bien y la gente que quería ir en primera instancia a Salou os pido perdón, la verdad es que estamos pelados de dinero y más con el indice de criminalidad que hay actualmente en Barcelona, no son de las cosas que más apetezcan para poder ir a veranear. 
+Dicho esto, aquí termina el itinerario sobre el plan de Calpe, es simple y sencillo, pasarla bien con amigos y lo que surja. Espero que todos lo pasemos bien y la gente que quería ir en primera instancia a Salou os pido perdón, la verdad es que estamos pelados de dinero y más con el índice de criminalidad que hay actualmente en Barcelona, no son de las cosas que más apetezcan para poder ir a veranear. 
 
 
 
