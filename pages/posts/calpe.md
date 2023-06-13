@@ -40,7 +40,6 @@ Voy a enseñaros dos hoteles con precios similarmente parecidos, decidiremos ent
 
 - Personalmente son pocos días, entonces la idea es pasarlo bien entre nosotros estos días tranquilamente, ya sea jugando al FIFA, yendo a la playa o cosas varías, vamos, lo que se haría en Gandía pero de una forma más variada y descubriendo sitios varios donde podemos relajarnos, que para eso están las vacaciones, entonces todo queda dichdo.
 
-### VENTAJAS.
 
 - Una primera ventaja es que el viaje de ida nos llevarán algunos padres, ya sea el novio de mi madre (Dani) o la madre de Mario, ya que ellos tienen coche y nos pueden transportar con facilidad, eso si, a la vuelta tenemos que buscarnos la vida yendo en un autobus o donde dios quiera, como si hacemos autostop.
 
