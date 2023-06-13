@@ -17,6 +17,7 @@ Al final todo se ha ido a la mierda por presupuesto, y entre que nadie sabe si p
 ---
 
 - La gente que irá a **Calpe** serán: **Dani, Victor, Tomás, Mario, Esteban** y como personas que aún no saben, **Jordi** (que nos notificará esta semana) y **Marcos**, el cual preguntará si puede ir a Calpe el día 28 y nosotros salimos el día 27 XD (DEP)
+
 - El precio minimo a cambiado, porque las condiciones son más baratas, ahora es de **100€**, podeis llevar el que querais, como si llevais 500€ (que estaría bien) pero el minimo son 100€
 
 ### Hotel
