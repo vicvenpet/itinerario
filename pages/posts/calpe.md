@@ -25,7 +25,7 @@ Al final todo se ha ido a la mierda por presupuesto, y entre que nadie sabe si p
 
 Voy a enseñaros dos hoteles con precios similarmente parecidos, decidiremos entre todos el que más os guste.
 
-- **Casa de familia**: 208€ x 2 días (**34€ x Persona**) y al pagar el hotel cada uno tendrá **66€**.
+**Casa de familia**: 208€ x 2 días (**34€ x Persona**) y al pagar el hotel cada uno tendrá **66€**.
 (**La verdad es que esta a tomar por culo de playas y cualquier zona porque es un chalet, pero asi no os importa caminar podemos ir libremente a esa casa.**
 
 Link: https://www.booking.com/hotel/es/casa-de-familia.es.html?aid=303946&label=calpe-w07jakmnOjzX1oLu0irWEASM638077470459%253Apl%253Ata%253Ap1680%253Ap2%253Aac%253Aap%253Aneg%253Afi%253Atikwd-1844562806%253Alp1005542%253Ali%253Adem%253Adm%253Appccp%253DUmFuZG9tSVYkc2RlIyh9Ye7BFAsTyVd6olzyFZA51Co-Ao1zy2%401686669463&sid=45b52fac92c23e02963130644115c9e9&all_sr_blocks=522892301_360141306_6_0_0&checkin=2023-06-25&checkout=2023-06-27&dest_id=-375124&dest_type=city&dist=0&group_adults=6&group_children=0&hapos=1&highlighted_blocks=522892301_360141306_6_0_0&hpos=1&matching_block_id=522892301_360141306_6_0_0&no_rooms=2&req_adults=6&req_children=0&room1=A%2CA%2CA&room2=A%2CA%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=522892301_360141306_6_0_0__20800&srepoch=1686669489&srpvid=227a6b97d6520032&type=total&ucfs=1&activeTab=main
