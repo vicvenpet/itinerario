@@ -20,7 +20,7 @@ Al final todo se ha ido a la mierda por presupuesto, y entre que nadie sabe si p
 
 - El precio minimo a cambiado, porque las condiciones son más baratas, ahora es de **100€**, podeis llevar el que querais, como si llevais 500€ (que estaría bien) pero el minimo son 100€
 
-### Hotel
+### Hoteles
 ---
 
 Voy a enseñaros dos hoteles con precios similarmente parecidos, decidiremos entre todos el que más os guste.
