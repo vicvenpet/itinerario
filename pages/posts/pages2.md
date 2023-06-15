@@ -88,6 +88,40 @@ Organización del espacio retribuido a cada uno, tenemos en total, una cama dobl
 
 Eso sería todo, esperemos pasarlo todos bien en este viaje por Salou.
 
+## NUEVAS COSAS A CONTAR
+---
+
+Me he informado un poco más sobre los hoteles porque se esta liando una por el precio minimo que hay que llevar así que voy a escribir todo lo que debemos de saber.
+
+Si queremos que el precio minimo sea **100€** el hotel tendrá que ser de **2 noches.**
+En cambio, si el precio minimo es de **150, inclusive 125** podemos optar por **3 noches** o incluso **4**, depende del hotel en cuestión al que iremos.
+
+- El mejor hotel que he podido encontrar por **3 NOCHES** y un precio minimo de hasta **125€** es el siguiente: **Hotel Homeuncalpe Morumbot** (si, el nombre es jodidamente raro pero es un hotelazo).
+
+Es un ático con vistas al mar, jardín cocina, terraza y piscina al aire libre y de las cuales lo más importante es sus habitaciones: **7 CAMAS.**
+
+- 2 camas individuales.
+- 2 camas individuales.
+- 2 camas individuales.
+- 1 sofá cama.
+
+Es la mejor opción en mi opinión para los 3/4 días que estaremos de viaje en Calpe, el precio saldría por cada persona (siendo 6, porque Marcos no se sabe si viene) es de **75€**.
+- Si al final Marcos por azares del destino aparece que lo veo jodido porque al día siguiente tiene un examén saldría por **64,2€**.
+
+En mi opinión esto es una jodida ganga, porque 3 días en un hotel a 50m de la playa, con tumbonas, internet y 7 camas es una goazada, pero claro el precio sería como minimo de **125€**, que no es demasiado pero es el necesario para no morir de hambre en estos 3 días de Calpe que estaremos alojados.
+
+### CAMAS (PROVISIONALES)
+
+- Primeras dos camas: Mario y Esteban.
+- Segundas dos camas: Dani y Tomas (Dani y Jordi, Tomas y Jordi también sirven).
+- Terceras dos camas: Victor y Jordi (Dani y Victor también es una opción.
+- Sofá cama: Victor podría ir, porque el quería eso o Marcos, si al final hemos rezado suficiente y viene.
+
+Eso sería todo, ya me contais como sale todo y si os gusta el plan.
+Visca el Barça y Visca Catalunya.
+
+
+
 [Edita el post en GitHub](https://github.com/vicvenpet/itinerario/edit/master/pages/posts/pages2.md)
 <a class="top-link hide" href="#copyright">©</a>
 <a name="copyright"></a>
